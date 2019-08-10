@@ -1,0 +1,3 @@
+; Constantes relacionas con matemáticas
+
+

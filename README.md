@@ -4,3 +4,5 @@ Libro Programación Retro del Commodore 64 en [Amazon](https://www.amazon.es/Pro
 Blog donde encontraréis la informacion https://programacion-retro-c64.blog/
 
 Ejemplos preparados para el compilador [CC65](https://github.com/cc65/cc65)
+
+Para poder ejecutarlos también necesitaremos el emulador [VICE](http://vice-emu.sourceforge.net/)
