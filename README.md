@@ -6,3 +6,16 @@ Blog donde encontraréis la informacion https://programacion-retro-c64.blog/
 Ejemplos preparados para el compilador [CC65](https://github.com/cc65/cc65)
 
 Para poder ejecutarlos también necesitaremos el emulador [VICE](http://vice-emu.sourceforge.net/)
+
+## Instalación
+Necesitamos instalar CC65 y VICE
+
+## Configuración
+Necesitaremos establecer en el path del sistema las carpetas de:
+* cc65\bin
+* vice
+
+## Ejecutar programas
+Windows: run ProgXX
+
+Linux, Mac : ./run.sh ProgXX
