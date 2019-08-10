@@ -7,6 +7,9 @@ Ejemplos preparados para el compilador [CC65](https://github.com/cc65/cc65)
 
 Para poder ejecutarlos también necesitaremos el emulador [VICE](http://vice-emu.sourceforge.net/)
 
+## Motivación
+Al utilizar el compilador [CC65](https://github.com/cc65/cc65) abro las puertas a los usuarios de Linux y Mac a que puedan aprender ensamblador de Commodore 64
+
 ## Instalación
 Necesitamos instalar CC65 y VICE
 
