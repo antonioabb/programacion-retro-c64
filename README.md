@@ -16,6 +16,6 @@ Necesitaremos establecer en el path del sistema las carpetas de:
 * vice
 
 ## Ejecutar programas
-Windows: run ProgXX
+Windows: run ProgXX (Nombre de la carpeta)
 
-Linux, Mac : ./run.sh ProgXX
+Linux, Mac : ./run.sh ProgXX (Nombre de la carpeta)
